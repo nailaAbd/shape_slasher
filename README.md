@@ -96,9 +96,7 @@ Note: The `shape_slasher.py` file is the main script that runs the Shape Slasher
    - This font adds a playful and engaging visual style to the game.
 
 3. Background Picture:
-   - The background picture used in the game
-
- is obtained from [WallpaperAccess](https://wallpaperaccess.com/full/358800.jpg).
+   - The background picture used in the game is obtained from [WallpaperAccess](https://wallpaperaccess.com/full/358800.jpg).
    - It provides an appealing and immersive visual backdrop for the game environment.
 
 4. Inspirations:
